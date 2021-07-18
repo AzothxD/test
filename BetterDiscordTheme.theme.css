@@ -40,8 +40,8 @@ the "CSS rules" it gives you. After that, just set the fonts below! */
 --dplus-spacing-app: 10px;
 
 /* The Home icon */
---dplus-icon-home-dark: url(//plusinsta.xyz/discord-plus/assets/discord/home_dark.svg);
---dplus-icon-home-light: url(//plusinsta.xyz/discord-plus/assets/discord/home_light.svg);
+--dplus-icon-home-dark: url(https://raw.githubusercontent.com/AzothxD/test/main/assets/discord/home_dark.svg);
+--dplus-icon-home-light: url(https://raw.githubusercontent.com/AzothxD/test/main/assets/discord/light.svg);
 
 /* Icon sizes */
 --dplus-icon-avatar-chat: 64px;
