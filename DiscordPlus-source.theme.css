@@ -1,15 +1,5 @@
-/**
- * @name Discord+ Source Code
- * @version 3.1.1
- * @author PlusInsta
- * @authorLink https://plusinsta.xyz
- * @description For developers only. If you're a user, please download the latest release instead.
- * @website https://plusinsta.xyz/discord-plus
- * @source https://raw.githubusercontent.com/PlusInsta/discord-plus/master/DiscordPlus-source.theme.css
- * @invite 2Jwh2nS
-*/
-@import url(https://plusinsta.xyz/discord-plus/assets/plugins.css);
-@import url(https://plusinsta.xyz/discord-plus/assets/extras.css);
+@import url(https://raw.githubusercontent.com/AzothxD/test/main/assets/plugins.css);
+@import url(https://raw.githubusercontent.com/AzothxD/test/main/assets/extras.css);
 /* Main fonts */
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous);
 /* Localized fonts */
